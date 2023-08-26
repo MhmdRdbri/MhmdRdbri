@@ -1,4 +1,4 @@
-<p style="text-align:center;">Hi, I'm Mohammad Roudbari 👋</p>
+<p dir="auto" style="text-align: center;">Hi, I'm Mohammad Roudbari 👋</p>
 
 <!--
 **MhmdRdbri/MhmdRdbri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
