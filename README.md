@@ -12,7 +12,7 @@
 <!-- <br>
 <br> -->
 
-<h3 align="justify" >I am a dedicated and versatile developer with a passion for leveraging a wide array of technologies to solve complex problems. With expertise in languages like Python, C, and JavaScript, alongside tools like Docker, AWS, and PostgreSQL, I focus on building efficient, scalable, and innovative solutions. Whether it's backend development, cloud computing, or DevOps, I'm always eager to learn and collaborate on exciting new projects.</h3>
+<h5 align="justify" >I am a dedicated and versatile developer with a passion for leveraging a wide array of technologies to solve complex problems. With expertise in languages like Python, C, and JavaScript, alongside tools like Docker, AWS, and PostgreSQL, I focus on building efficient, scalable, and innovative solutions. Whether it's backend development, cloud computing, or DevOps, I'm always eager to learn and collaborate on exciting new projects.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdrdbri&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdrdbri" /> </p>
 
