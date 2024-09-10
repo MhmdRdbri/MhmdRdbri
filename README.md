@@ -12,20 +12,18 @@
 <br>
 <br>
 
-<p align="left" dir="auto">I am a dedicated and versatile developer with a passion for leveraging a wide array of technologies to solve complex problems. With expertise in languages like Python, C, and JavaScript, alongside tools like Docker, AWS, and PostgreSQL, I focus on building efficient, scalable, and innovative solutions. Whether it's backend development, cloud computing, or DevOps, I'm always eager to learn and collaborate on exciting new projects.</p>
-
-<br>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Mohammad Rodbari</h1>
+<h3 align="center">I am a dedicated and versatile developer with a passion for leveraging a wide array of technologies to solve complex problems. With expertise in languages like Python, C, and JavaScript, alongside tools like Docker, AWS, and PostgreSQL, I focus on building efficient, scalable, and innovative solutions. Whether it's backend development, cloud computing, or DevOps, I'm always eager to learn and collaborate on exciting new projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdrdbri&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdrdbri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhmdrdbri" alt="mhmdrdbri" /></a> </p>
 
-- 🔭 I’m currently working on **CRM**
+- 🔭 I’m currently working on **business based CRMs.**
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **remote projects**
+- 👯 I’m looking to collaborate on **remote projects.**
 
 - 📝 I regularly write articles on [www.linkedin.com/in/mohammadroudbari](www.linkedin.com/in/mohammadroudbari)
 
@@ -37,6 +35,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohammadroudbari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadroudbari" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammadroudbarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammadroudbarii" height="30" width="40" /></a>
+<a href="https://discord.gg/mohammad077770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mohammad077770" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
