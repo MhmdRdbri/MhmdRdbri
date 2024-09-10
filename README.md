@@ -54,6 +54,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sentry/sentry-original-wordmark.svg" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp;
 </div>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=MhmdRdbri&label=Profile%20Views&color=6&pretty=false" />
+</a>
 
 <br>
 
