@@ -12,7 +12,7 @@
 <br>
 <br>
 
-<p align="left" dir="auto">Mohammad Roudbari is a Django professional with a degree in Computer Engineering. His passion for the intersection of AI and web developing has been the driving force behind his education, work, and development.</p>
+<p align="left" dir="auto">I am a dedicated and versatile developer with a passion for leveraging a wide array of technologies to solve complex problems. With expertise in languages like Python, C, and JavaScript, alongside tools like Docker, AWS, and PostgreSQL, I focus on building efficient, scalable, and innovative solutions. Whether it's backend development, cloud computing, or DevOps, I'm always eager to learn and collaborate on exciting new projects.</p>
 
 <br>
 <h3 align="center">A passionate frontend developer from India</h3>
