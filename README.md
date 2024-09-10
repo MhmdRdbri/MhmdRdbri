@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on **business based CRMs.**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter.**
 
 - 👯 I’m looking to collaborate on **remote projects.**
 
