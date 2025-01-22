@@ -49,6 +49,7 @@
 <h3 align="left">My CV:</h3>
 <a href="https://gamma.app/docs/Mohammad-Roudbari-j8w6ui4cp1lq0qm">Watch my resume</a>
 <br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdrdbri&show_icons=true&locale=en&layout=compact" alt="mhmdrdbri" /></p>
 
