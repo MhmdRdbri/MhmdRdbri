@@ -18,7 +18,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhmdrdbri" alt="mhmdrdbri" /></a> </p>
 
-<p> **What I Do:** </p>
+**What I Do:**
 
 - 🏗️ Develop robust **CRM systems tailored** for business needs.
 
