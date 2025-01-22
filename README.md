@@ -18,11 +18,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhmdrdbri" alt="mhmdrdbri" /></a> </p>
 
-- 🔭 I’m currently working on **business based CRMs.**
+- 🏗️ Develop robust **CRM systems tailored** for business needs.
 
-- 🌱 I’m currently learning **Security.**
+- 🔒 Explore and implement **security measures** to ensure application integrity.
 
 - 👯 I’m looking to collaborate on **remote projects.**
+
+- 🌐 Create dynamic **frontend interfaces** and **efficient backends.**
+
+- ☁️ Deploy and manage applications on **cloud platforms (AWS, Docker).**
 
 - 📝 I regularly write articles on [www.linkedin.com/in/mohammadroudbari](www.linkedin.com/in/mohammadroudbari)
 
