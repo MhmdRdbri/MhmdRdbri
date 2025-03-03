@@ -26,7 +26,7 @@
 
 - 👯 I’m looking to collaborate on **remote projects.**
 
-- 🌐 Create dynamic **frontend interfaces** and **efficient backends.**
+- 🌐 Create dynamic **backend interfaces** and **efficient APIs.**
 
 - ☁️ Deploy and manage applications on **cloud platforms (AWS, Docker).**
 
