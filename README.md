@@ -20,21 +20,21 @@
 
 <h3> <strong> What I Do: </strong> </h3>
 
-- 🏗️ Develop robust **CRM systems tailored** for business needs.
+🏗️ Design and build scalable CRM systems tailored to real-world business requirements.
 
-- 🔒 Explore and implement **security measures** to ensure application integrity.
+🔐 Implement security best practices to ensure application reliability and data protection.
 
-- 👯 I’m looking to collaborate on **remote projects.**
+🤝 Open to collaboration on impactful remote projects across the globe.
 
-- 🌐 Create dynamic **backend interfaces** and **efficient APIs.**
+🌐 Develop high-performance RESTful APIs and backend systems using Django and related technologies.
 
-- ☁️ Deploy and manage applications on **cloud platforms (AWS, Docker).**
+☁️ Deploy and manage applications on modern cloud infrastructures such as AWS and Docker.
 
-- 📝 I regularly write articles on [www.linkedin.com/in/mohammadroudbari](www.linkedin.com/in/mohammadroudbari)
+✍️ Regular contributor on LinkedIn, where I share insights on backend development and AI — Connect with me.
 
-- 💬 Ask me about **Backend, Django, REST API and Machine learning.**
+💡 Let's talk about: Django, REST APIs, backend architecture, DevOps, and Machine Learning.
 
-- 📫 How to reach me **mohammadroudbari2@gmail.com**
+📬 Reach out: mohammadroudbari2@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
