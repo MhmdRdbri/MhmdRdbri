@@ -38,7 +38,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohammadroudbari" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="mohammadroudbari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammadroudbari" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="mohammadroudbari" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammadroudbarii" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="mohammadroudbarii" height="30" width="40" /></a>
 <a href="https://discord.gg/mohammad077770" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="mohammad077770" height="30" width="40" /></a>
 </p>
