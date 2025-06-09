@@ -56,6 +56,7 @@
 <p align="center">
   <strong>Backend & Frameworks:</strong><br>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a>
+  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a>
 </p>
 
