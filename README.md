@@ -15,9 +15,8 @@
 <h5 align="justify" >I am a dedicated and versatile developer with a passion for leveraging a wide array of technologies to solve complex problems. With expertise in languages like Python, C, and JavaScript, alongside tools like Docker, AWS, and PostgreSQL, I focus on building efficient, scalable, and innovative solutions. Whether it's backend development, cloud computing, or DevOps, I'm always eager to learn and collaborate on exciting new projects.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdrdbri&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdrdbri" /> </p>
-<p align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhmdrdbri&theme=radical" alt="mhmdrdbri" /></a> </p>
-</p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhmdrdbri&theme=radical" alt="mhmdrdbri" /></a> </p>
 
 <h3> <strong> What I Do: </strong> </h3>
 
