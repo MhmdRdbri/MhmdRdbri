@@ -88,6 +88,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a>
   <a href="https://sentry.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sentry" alt="sentry" width="40" height="40"/> </a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"/> </a>
 </p>
 
 
